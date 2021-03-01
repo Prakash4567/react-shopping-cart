@@ -86,7 +86,7 @@ export default class Products extends Component {
                   </div>
                 </div>
               </div>
-              <div>Modal</div>
+              <div><em>Modal</em></div>
             </Zoom>
           </Modal>
         )}
